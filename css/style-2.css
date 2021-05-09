@@ -13,7 +13,7 @@ body {
     position: relative;
     height: 30vh;
     margin-bottom: 45vh;
-    background: linear-gradient(91.52deg, #0249FF 0%, #3059C5 99.99%, rgba(196, 196, 196, 0) 100%);
+    background: linear-gradient(91.52deg, #0249FF 0%, #A31D1D 99.99%, rgba(196, 196, 196, 0) 100%);
 }
 
 .header {
@@ -61,7 +61,7 @@ body {
 }
 
 .landing-directions a {
-    background: #305AC6;
+    background: #A31D1D;
     border-radius: 7px;
     color: white;
     text-decoration: none;
@@ -94,12 +94,12 @@ body {
     text-align: center;
     letter-spacing: 0.03em;
 
-    color: #305AC6;
+    color: #A31D1D;
     margin-bottom: 0;
 }
 .content .h2-underline {
     width: 40px;
-    border-bottom: 2px solid #305AC6;
+    border-bottom: 2px solid #A31D1D;
 }
 .content-header {
     text-align: center;
@@ -169,7 +169,7 @@ footer {
     font-weight: bold;
     font-size: 18px;
     letter-spacing: 0.03em;
-    color: #305AC6;
+    color: #A31D1D;
 }
 .description-title span {
     font-weight: bold;
@@ -177,7 +177,7 @@ footer {
     letter-spacing: 0.03em;
     color: #FFFFFF;
 
-    background: #305AC6;
+    background: #A31D1D;
     border-radius: 6px;
     padding: 4px 12px;
 }
@@ -193,7 +193,8 @@ footer {
     letter-spacing: 0.03em;
     color: #FFFFFF;
     padding: 10px;
-    background: #305AC6;
+    background: #A31D1D
+        ;
     border-radius: 7px;
     border: none;
 }
@@ -372,8 +373,8 @@ footer {
     height: 32px;
 }
 .quantity-button:hover {
-    background-color: #305AC6;
-    border-color: #305AC6;
+    background-color: #A31D1D;
+    border-color: #A31D1D;
     cursor: pointer;
 }
 .qb-alts {
